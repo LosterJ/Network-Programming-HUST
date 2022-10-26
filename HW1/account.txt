@@ -2,7 +2,7 @@ hedspi1 hedpsi2016 0
 
 hust hust123 0
 
-soict soictfit 0
+soict soictfit 1
 
 bk jkfadsj 1
 
@@ -13,5 +13,3 @@ haland kajfdk 1
 kaido kadjf 0
 
 okesaka hahahoho 1
-
-mooo kaikai 1
